@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: jimrzc.com
-Token: fb1a7146e000d82967db2588064ed3adc58fd43bf300ae77db2bf835d0d87d52
